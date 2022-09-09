@@ -7,5 +7,6 @@ The Blinky-Lite Exchange is a place where developers can learn about the Blinky-
   - Example message tray  can be found at [Blinky Bus Tray](https://github.com/Blinky-Lite-Exchange/blinky-bus-tray)
 * **Application Box**
   - Example application box will be released 31-Oct-2022
+  - To implement your Blinky-Lite message trays on the [Blinky-Lite Cloud](https://www.blinky-lite.se/), please contact info@bl-mc.se
 
 <img src="https://github.com/Blinky-Lite-Exchange/.github/raw/master/profile/blinkyLiteArchitecture.png"/><br>
