@@ -1,6 +1,8 @@
 # The Blinky-Lite Exchange
 
-The Blinky-Lite Exchange is a place where developers can learn about the Blinky-Lite<sup>TM</sup> control system platform. An implementation of the platform is built from three major components
+**The Blinky-Lite Exchange is a place where developers can learn about the Blinky-Lite<sup>TM</sup> control system platform.** 
+
+An implementation of the platform is built from three major components
 * **Controller Cube**
   - Example controller cube  can be found at [Blinky Bus Cube](https://github.com/Blinky-Lite-Exchange/blinky-bus-cube)
 * **Message Tray**
